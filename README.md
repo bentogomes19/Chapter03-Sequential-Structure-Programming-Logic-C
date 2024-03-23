@@ -7,8 +7,7 @@
 There are 25 Solved drills from the book and more 25 exercises for the student
 
     .
-    ├── Book                   
-    ├── Exercises PT-BR                 
+    ├── Book                             
     ├── Solved Programs  
     │    ├── Prog01.c   
     │    ├── Prog02.c
